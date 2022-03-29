@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42896c115463bba4a8226455d7d653a5, type: 3}
+  m_Name: DefaultDifficulty
+  m_EditorClassIdentifier: 
+  initialWaveCost: 12
+  waveCostRaise: 5
+  maxSaucersPerWave: 2
+  asteroid: {fileID: 11400000, guid: 381df766b4d6ed64e911e44215e5df36, type: 2}
+  saucer: {fileID: 11400000, guid: dfc46c2d3d6ef6446a0299e9416f97d6, type: 2}

@@ -1,0 +1,20 @@
+{
+    "name": "Game.ECS.Controller.MonoBehaviors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:87e8be7e5b87b554aae99bd6d4a581f8",
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:60ac43a088eba554889a232f955f78f5",
+        "GUID:d9b9884af9d05c046b44e6b56656aedd",
+        "GUID:40f101d4c2c614b49a4eab9306e49d71"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

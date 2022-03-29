@@ -1,0 +1,16 @@
+{
+    "name": "PrefabCacheSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e0ee5568dd62a0440a9c36c6c6914c8a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Game.ECS.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40f101d4c2c614b49a4eab9306e49d71",
+        "GUID:60ac43a088eba554889a232f955f78f5",
+        "GUID:3f564d8bdd14b7248a8220280d46da20",
+        "GUID:e0ee5568dd62a0440a9c36c6c6914c8a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:5fbf02884aecf624dbd9df588fc70e78"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

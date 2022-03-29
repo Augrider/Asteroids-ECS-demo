@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f28738060f152d48963ac7f49b00aae, type: 3}
+  m_Name: ECS.Bullet
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2615972453119718154, guid: d639dfc5aa568b9438fd1ac390bc9658, type: 3}
+  _maxCharges: 1
+  _fullChargeCooldown: 0.3
+  _fireCooldown: 0.3

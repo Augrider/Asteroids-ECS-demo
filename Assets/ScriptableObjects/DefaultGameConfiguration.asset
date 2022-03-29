@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b431ba921cb4ca94dac557ec2d125b95, type: 3}
+  m_Name: DefaultGameConfiguration
+  m_EditorClassIdentifier: 
+  _timeBetweenWaves: 2
+  _gameState: {fileID: 11400000, guid: 0ecb43c891b8f8141b8f37b6f312aaab, type: 2}
+  gameSettings: {fileID: 11400000, guid: 5eb9a799883378b4ab277c4a9589b1db, type: 2}
+  playerControls: {fileID: 11400000, guid: 082669c0911a2734da374a41d398e983, type: 2}

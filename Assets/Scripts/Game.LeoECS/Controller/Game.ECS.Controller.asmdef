@@ -1,0 +1,24 @@
+{
+    "name": "Game.ECS.Controller",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40f101d4c2c614b49a4eab9306e49d71",
+        "GUID:60ac43a088eba554889a232f955f78f5",
+        "GUID:87e8be7e5b87b554aae99bd6d4a581f8",
+        "GUID:ace00c980b7fcd348aa85fae0c4a8914",
+        "GUID:66b332002afda2d46b670fbbac5f78ed",
+        "GUID:3f564d8bdd14b7248a8220280d46da20",
+        "GUID:d9b9884af9d05c046b44e6b56656aedd",
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:e6ecd13bc716d28498c0e1d211028495"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
